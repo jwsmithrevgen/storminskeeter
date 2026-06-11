@@ -2,16 +2,24 @@
 - 📫 How to reach me ... jwsmith@arkbluecross.com
 - ⚡ Fun fact: ...Championship BBQ Chef
 
-With 25+ years of experience in health insurance software developmentI, I currently serve as a Developer and Technical Lead for Enterprise Integration Platforms at Arkansas Blue Cross and Blue Shield, the state's largest health insurer.
+Lead Developer – Health Insurance Technology & Integration Expert
 
-My primary focus is leading, designing, and maintaining Small Group Non-ACA, Small Group & Individual ACA, Individual Under 65 Off-Exchange & multiple other product lines through the use of rating algorithm web services tailored to diverse customer segments. I specialize in delivering robust, scalable solutions that support mission-critical operations and am responsible; as the system owner, for ensuring these systems run smoothly and efficiently.
+As a Lead Developer at Arkansas Blue Cross and Blue Shield, I am entrusted with the design, coding and maintenance of ACA and Non-ACA rating algorithms. My work ensures seamless quoting processes for both individual and group health insurance, directly impacting operational efficiency and customer satisfaction.
 
-Core Competencies:
-* Cloud Platforms: Azure & Google Apigee
-* Databases & Analytics: SQL Server, Power BI, ELK Stack(Elastic), MongoDB
-* Software Development & Integration
-* UX Design & Data Visualization
-* Agile Frameworks: SaFE Agile Method
-* Strategic Problem-Solving & Business Intelligence
+Areas of Specialization
+•	Enterprise Integration: Proven expertise in integrating complex healthcare solutions across platforms, driving interoperability and scalability.
+•	Healthcare IT Solutions: Extensive experience in developing and deploying mission-critical systems tailored for the health insurance sector.
+•	Cloud Platforms: Skilled in leveraging Microsoft Azure and Google Apigee to architect robust, secure, and scalable integration solutions.
+
+Professional Experience
+•	25+ Years in Health Insurance Software Development:
+•	Demonstrated commitment to innovation, problem-solving, and delivering value-driven results within the healthcare landscape.
+•	Technical Leadership:
+•	Guiding cross-functional teams, mentoring developers, and shaping technology strategy to align with organizational goals.
+•	Data Visualization & Strategic Insights:
+•	Developing intuitive tools and dashboards that empower stakeholders to make informed decisions with clarity and confidence.
+
+Professional Philosophy
+My approach combines deep technical expertise with a passion for enabling organizations to thrive in a dynamic healthcare environment. By delivering solutions that enhance efficiency, transparency, and decision-making, I aim to drive measurable improvements for both internal teams and the individuals we serve.
 
 I am deeply passionate about delivering innovation and value through technology that drives efficiency, clarity, and impact across the healthcare landscape.
